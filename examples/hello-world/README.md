@@ -1,4 +1,4 @@
-# License Plate Deteciton Demo
+# License Plate Detection Demo
 
 ## Table of Contents
 - [License Plate Detection Demo](#license-plate-detection-demo)
